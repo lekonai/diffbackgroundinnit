@@ -1,4 +1,4 @@
 # MixPack v1.0  
-![MixPack](https://i.imgur.com/kzGxfcA.png)  
+![MixPack](https://i.imgur.com/N0hXv99.png)  
 
-HOW THE FUCK DO YOU USE THIS SERVICE THING
+just download the mixpack.css file and import :3
